@@ -1,24 +1,20 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
-
-    <a class="navbar-item logo-container" href="index.php?vista=home">
-    <img src="./img/logo.png" class="logo" alt="Logo">
-    </a>
-
+        <a class="navbar-item logo-container" href="index.php?vista=home">
+            <img src="./img/logo.png" class="logo" alt="Logo">
+        </a>
 
         <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
             <span aria-hidden="true"></span>
-            <span aria-hidden="true"></span>    
+            <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
         </a>
     </div>
 
     <div id="navbarBasicExample" class="navbar-menu">
         <div class="navbar-start">
-
             <div class="navbar-item has-dropdown is-hoverable">
                 <a class="navbar-link">Usuarios</a>
-
                 <div class="navbar-dropdown">
                     <a href="index.php?vista=user_new" class="navbar-item">Nuevo</a>
                     <a href="index.php?vista=user_list" class="navbar-item">Lista</a>
@@ -28,7 +24,6 @@
 
             <div class="navbar-item has-dropdown is-hoverable">
                 <a class="navbar-link">Categorías</a>
-
                 <div class="navbar-dropdown">
                     <a href="index.php?vista=category_new" class="navbar-item">Nueva</a>
                     <a href="index.php?vista=category_list" class="navbar-item">Lista</a>
@@ -38,7 +33,6 @@
 
             <div class="navbar-item has-dropdown is-hoverable">
                 <a class="navbar-link">Productos</a>
-
                 <div class="navbar-dropdown">
                     <a href="index.php?vista=product_new" class="navbar-item">Nuevo</a>
                     <a href="index.php?vista=product_list" class="navbar-item">Lista</a>
@@ -46,33 +40,33 @@
                     <a href="index.php?vista=product_search" class="navbar-item">Buscar</a>
                 </div>
             </div>
+
             <div class="navbar-item has-dropdown is-hoverable">
                 <a class="navbar-link">Caja</a>
-
                 <div class="navbar-dropdown">
                     <a href="index.php?vista=cashier_list" class="navbar-item">Lista</a>
+                </div>
             </div>
-            </div>
+
             <div class="navbar-item has-dropdown is-hoverable">
                 <a class="navbar-link">Ventas</a>
-
                 <div class="navbar-dropdown">
                     <a href="index.php?vista=sale_new" class="navbar-item">Nueva</a>
+                </div>
             </div>
-            </div>
-
-
-
-
         </div>
 
         <div class="navbar-end">
+            <div class="navbar-item">
+                <a href="https://github.com/Cristopher1178Col/Proyecto_LiquorLogix.git" target="_blank" class="github-icon-button">
+                    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" class="github-logo">
+                </a>
+            </div>
             <div class="navbar-item">
                 <div class="buttons">
                     <a href="index.php?vista=user_update&user_id_up=<?php echo $_SESSION['id']; ?>" class="button is-primary is-rounded">
                         Mi cuenta
                     </a>
-
                     <a href="index.php?vista=logout" class="button is-link is-rounded">
                         Salir
                     </a>

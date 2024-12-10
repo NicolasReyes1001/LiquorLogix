@@ -4,7 +4,7 @@
 			<img src="./img/logo.png" alt="Logo de la empresa" class="logo">
 		</div>
 
-		<h5 class="title is-5 has-text-centered is-uppercase">Sistema de Licores</h5>
+		<h5 class="title is-5 has-text-centered is-uppercase">Inicia Sesion</h5>
 
 		<div class="field">
 			<label class="label">Usuario</label>

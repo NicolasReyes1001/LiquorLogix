@@ -32,19 +32,19 @@
           [
             "url" => "./img/galery/1_image_galery.jpg",
             "alt" => "img1",
-            "titulo" => "QUIENES SOMOS",
+            "titulo" => "IMAGEN 1",
             "texto" => "Conoce más sobre nuestra empresa y su misión."
           ],
           [
             "url" => "./img/galery/2_image_galery.jpg",
             "alt" => "img2",
-            "titulo" => "IMAGEN DE PRUEBA 2",
+            "titulo" => "IMAGEN 2",
             "texto" => "Esta es una segunda imagen para mostrar la galería."
           ],
           [
             "url" => "./img/galery/3_image_galery.jpg",
             "alt" => "img3",
-            "titulo" => "IMAGEN DE PRUEBA 3",
+            "titulo" => "IMAGEN 3",
             "texto" => "Explora nuestra galería y encuentra más contenido."
           ]
         ];

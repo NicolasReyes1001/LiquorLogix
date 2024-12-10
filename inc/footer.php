@@ -3,7 +3,7 @@
         <div class="columns">
             <div class="column is-one-third">
                 <h3 class="title is-5">Acerca de Nosotros</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, possimus. Ad a dolore iste maxime est facere fugiat modi labore nesciunt? Voluptas sit vero nemo ad fuga accusantium quidem excepturi?</p>
+                <p>En LiquorLogix nos comprometemos a brindar soluciones innovadoras y eficientes para el control de inventarios en licoreras. Nuestro objetivo es ofrecer a nuestros clientes una herramienta intuitiva, segura y confiable, que facilite la gestión y organización de su inventario de manera precisa y en tiempo real. Trabajamos constantemente para mejorar la experiencia del usuario y asegurar que nuestro sistema se adapte a las necesidades cambiantes del mercado, proporcionando un soporte integral para un manejo óptimo de los productos y recursos</p>
             </div>
             <div class="column is-one-third">
                 <h3 class="title is-5">Enlaces Útiles</h3>
